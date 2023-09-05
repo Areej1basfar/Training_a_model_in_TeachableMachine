@@ -19,4 +19,4 @@
 <br>
 (https://github.com/Areej1basfar/Training_a_model_in_TeachableMachine/assets/121516453/c14a017a-a26a-45de-a947-fed5656b6533)
 <br><br>
-"that the above testing images are new. The model had not been trained on the images"
+"that the above testing images are new, The model had not been trained on the images"
