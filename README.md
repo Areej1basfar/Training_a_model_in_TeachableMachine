@@ -3,7 +3,8 @@
 <br><br>
 ##### THE OUTPUT:
 <br>
-![262809699-522f41f4-9f3f-41c0-a5ae-a13fa677c15b]
+![image](https://github.com/Areej1basfar/Training_a_model_in_TeachableMachine/assets/121516453/f6dd0ca3-10b7-4615-8813-35ba2a0299bf)
+
 <br>
 ![262809670-54e5b986-c3bf-4296-b154-2552980b927e](https://github.com/Areej1basfar/Training_a_model_in_TeachableMachine/assets/121516453/9133e374-373f-4fe5-af70-97fb1a953ee2)
 <br>
