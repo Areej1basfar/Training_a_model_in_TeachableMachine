@@ -1,4 +1,4 @@
-# Training a model in "Teachable Machine".<br><br><br>
+# Training a model in "Teachable Machine" <Smart Methods training 2023>.<br><br><br>
 #### The project link:https://teachablemachine.withgoogle.com/models/lS7ExmWdl/
 <br><br>
 ##### THE OUTPUT:
